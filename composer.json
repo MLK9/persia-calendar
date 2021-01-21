@@ -10,16 +10,8 @@
     }
     ],
     "require": {
-        "php": ">=7.4",
-        "mlk9/persia-calendar": "dev-master"
+        "php": ">=7.4"
     },
-    "repositories": [
-        {
-           "name": "mlk9/persia-calendar",
-           "type": "git",
-           "url": "Users/MLK9/persia-calendar"
-        }
-    ],
     "autoload": {
         "psr-4": {
           "MLK9\\": "src/"
