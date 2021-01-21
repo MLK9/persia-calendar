@@ -1,0 +1,12 @@
+{
+    "name": "mlk9/persia-calendar",
+    "description": "With this package you can get events in Jalali's calendar",
+    "type": "library",
+    "license": "MIT",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+          "MLK9\\": "src/"
+        }
+    }
+}
