@@ -6,11 +6,7 @@ This package is a library for find events and holidays in Iran's calendar;
 
 ** Language: Persian 
 
-Installation
-------------
-```sh
-composer require mlk9/persia-calendar
-```
+
 
 Usage
 ----------------
