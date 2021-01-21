@@ -1,6 +1,6 @@
 {
     "name": "mlk9/persia-calendar",
-    "description": "With this package you can get events in Jalali's calendar",
+    "description": "With this package you can get events in Iran's calendar",
     "type": "library",
     "license": "MIT",
     "require": {},
